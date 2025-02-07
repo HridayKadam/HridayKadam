@@ -8,5 +8,7 @@
 - 💡 Philosophy: First principles thinking > Everything else.
 - ⚡ Fun fact: If @SpaceX needs someone to sweep Mars, I’m in
 
+  If @YC is seeing this I need to come to SF to get my co-founder!! :( Please!!
+
  - 📝 Essays & Ideas: penpaper1111.substack.com
 - X (Twitter): @hridaykadam
