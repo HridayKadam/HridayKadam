@@ -1,14 +1,42 @@
-🚀 Hi! I am @Hriday Kadam 👋
-"Breaking things down to first principles & building them back better!"
+<h1 align="center">Hriday Kadam</h1>
 
-- 💞️ I’m looking to collaborate on a LOT of cool projects!
-- 📫 How to reach me hridaykadam1111@gmail.com 
-- 😄 Pronouns: he/him
-- 🧠 Learning: How to ship faster than ever before!
-- 💡 Philosophy: First principles thinking > Everything else.
-- ⚡ Fun fact: If @SpaceX needs someone to sweep Mars, I’m in
+<p align="center">
+  <b>Builder. Shipper. First-principles thinker.</b><br/>
+  Turning ideas into usable software.
+</p>
 
-  If @YC is seeing this I need to come to SF to get my co-founder!! :( Please!!
+<p align="center">
+  <a href="mailto:hridaykadam1111@gmail.com">Email</a> •
+  <a href="https://x.com/hridaykadam">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="14" alt="X logo"/>
+    @hridaykadam
+  </a> •
+  <a href="https://penpaper1111.substack.com/">Essays</a>
+</p>
 
- - 📝 Essays & Ideas: penpaper1111.substack.com
-- X (Twitter): @hridaykadam
+---
+
+## 🚀 About Me
+
+I build fast. I iterate faster.
+
+Focused on:
+- AI systems  
+- Developer tools  
+- Internet-native platforms  
+
+Execution > ideas.
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hridaykadam&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <span style="color:orange;"><i>Building things people love.</i></span>
+</p>
