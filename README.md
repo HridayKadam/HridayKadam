@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Builder. Shipper. First-principles thinker.</b><br/>
-  Turning ideas into usable software.
+  Turning ideas into usable software
 </p>
 
 <p align="center">
