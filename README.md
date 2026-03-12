@@ -33,15 +33,3 @@ Focused on:
 Execution > ideas.
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hridaykadam&theme=transparent&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <span style="color:orange;"><i>Building things people love.</i></span>
-</p>
