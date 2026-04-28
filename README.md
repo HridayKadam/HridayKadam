@@ -1,8 +1,7 @@
 <h1 align="center">Hriday Kadam</h1>
 
 <p align="center">
-  <b>Builder. Shipper. First-principles thinker.</b><br/>
-  Turning ideas into usable software
+BUSY AF
 </p>
 
 <p align="center">
@@ -19,17 +18,6 @@
   <a href="https://penpaper1111.substack.com/">Essays</a>
 </p>
 
----
-
-## 🚀 About Me
-
-I build fast. I iterate faster.
-
-Focused on:
-- AI systems  
-- Developer tools  
-- Internet-native platforms  
-
 Execution > ideas.
+if you need me, reachout. I help people.
 
----
