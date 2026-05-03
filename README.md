@@ -1,4 +1,4 @@
-<h1 align="center">Hriday Kadam</h1>
+<h1 align="center">Hriday Kadam (building something that people love)</h1>
 
 <p align="center">
 BUSY AF, active on X
